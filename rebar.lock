@@ -13,7 +13,7 @@
  {<<"parse_trans">>,{pkg,<<"parse_trans">>,<<"3.3.0">>},3},
  {<<"restc">>,
   {git,"https://github.com/jptac/restclient",
-       {ref,"9db112af186658ad72523254718eea4af0fd4872"}},
+       {ref,"b58b8150fe5f55d4a1c3bc1428d1d1cdb2eace33"}},
   0},
  {<<"ssl_verify_fun">>,{pkg,<<"ssl_verify_fun">>,<<"1.1.4">>},2},
  {<<"unicode_util_compat">>,{pkg,<<"unicode_util_compat">>,<<"0.4.1">>},3}]}.
